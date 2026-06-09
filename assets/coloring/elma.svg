@@ -1,0 +1,4 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <path d="M50,80 C30,80 15,65 15,45 C15,25 30,10 50,10 C70,10 85,25 85,45 C85,65 70,80 50,80 Z" fill="none" stroke="black" stroke-width="2" id="apple_body" />
+  <path d="M50,10 Q50,0 60,5" fill="none" stroke="black" stroke-width="2" id="stem" />
+</svg>

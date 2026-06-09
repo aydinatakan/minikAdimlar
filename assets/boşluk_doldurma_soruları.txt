@@ -1,0 +1,483 @@
+[
+  {
+    "id": "fill_001",
+    "sentence": "Gökyüzünün rengi ____ olur.",
+    "options": ["mavi", "kırmızı", "siyah", "turuncu"],
+    "correctAnswer": "mavi",
+    "correctIndex": 0,
+    "isActive": true
+  },
+  {
+    "id": "fill_002",
+    "sentence": "Balıklar ____ yaşar.",
+    "options": ["ağaçta", "suda", "çölde", "havada"],
+    "correctAnswer": "suda",
+    "correctIndex": 1,
+    "isActive": true
+  },
+  {
+    "id": "fill_003",
+    "sentence": "Kışın hava genellikle ____ olur.",
+    "options": ["sıcak", "soğuk", "mor", "parlak"],
+    "correctAnswer": "soğuk",
+    "correctIndex": 1,
+    "isActive": true
+  },
+  {
+    "id": "fill_004",
+    "sentence": "Dişlerimizi temizlemek için ____ kullanırız.",
+    "options": ["çatal", "diş fırçası", "yastık", "oyuncak"],
+    "correctAnswer": "diş fırçası",
+    "correctIndex": 1,
+    "isActive": true
+  },
+  {
+    "id": "fill_005",
+    "sentence": "Elma bir ____ türüdür.",
+    "options": ["sebze", "meyve", "eşya", "hayvan"],
+    "correctAnswer": "meyve",
+    "correctIndex": 1,
+    "isActive": true
+  },
+  {
+    "id": "fill_006",
+    "sentence": "Gece uyurken ____ örteriz.",
+    "options": ["battaniye", "masa", "kalem", "tabak"],
+    "correctAnswer": "battaniye",
+    "correctIndex": 0,
+    "isActive": true
+  },
+  {
+    "id": "fill_007",
+    "sentence": "Kediler genellikle ____ sesi çıkarır.",
+    "options": ["hav hav", "möö", "miyav", "vak vak"],
+    "correctAnswer": "miyav",
+    "correctIndex": 2,
+    "isActive": true
+  },
+  {
+    "id": "fill_008",
+    "sentence": "Yağmur yağınca ____ kullanırız.",
+    "options": ["şemsiye", "yastık", "silgi", "kaşık"],
+    "correctAnswer": "şemsiye",
+    "correctIndex": 0,
+    "isActive": true
+  },
+  {
+    "id": "fill_009",
+    "sentence": "Muzun rengi genellikle ____ olur.",
+    "options": ["mavi", "sarı", "mor", "gri"],
+    "correctAnswer": "sarı",
+    "correctIndex": 1,
+    "isActive": true
+  },
+  {
+    "id": "fill_010",
+    "sentence": "Kuşlar gökyüzünde ____.",
+    "options": ["koşar", "yüzer", "uçar", "uyur"],
+    "correctAnswer": "uçar",
+    "correctIndex": 2,
+    "isActive": true
+  },
+  {
+    "id": "fill_011",
+    "sentence": "Yemek yerken ____ kullanırız.",
+    "options": ["çatal", "silgi", "oyuncak", "kitap"],
+    "correctAnswer": "çatal",
+    "correctIndex": 0,
+    "isActive": true
+  },
+  {
+    "id": "fill_012",
+    "sentence": "Ateş çok ____ olur.",
+    "options": ["soğuk", "ıslak", "sıcak", "yumuşak"],
+    "correctAnswer": "sıcak",
+    "correctIndex": 2,
+    "isActive": true
+  },
+  {
+    "id": "fill_013",
+    "sentence": "İnekler ____ verir.",
+    "options": ["su", "süt", "meyve", "ekmek"],
+    "correctAnswer": "süt",
+    "correctIndex": 1,
+    "isActive": true
+  },
+  {
+    "id": "fill_014",
+    "sentence": "Sabah kalkınca önce yüzümüzü ____.",
+    "options": ["boyarız", "yıkarız", "uyuruz", "saklarız"],
+    "correctAnswer": "yıkarız",
+    "correctIndex": 1,
+    "isActive": true
+  },
+  {
+    "id": "fill_015",
+    "sentence": "Kitap okumak için ____ gideriz.",
+    "options": ["markete", "kütüphaneye", "garaja", "mutfağa"],
+    "correctAnswer": "kütüphaneye",
+    "correctIndex": 1,
+    "isActive": true
+  },
+  {
+    "id": "fill_016",
+    "sentence": "Dondurma genellikle ____ olur.",
+    "options": ["sıcak", "soğuk", "acı", "sert"],
+    "correctAnswer": "soğuk",
+    "correctIndex": 1,
+    "isActive": true
+  },
+  {
+    "id": "fill_017",
+    "sentence": "Uyumadan önce dişlerimizi ____.",
+    "options": ["boyarız", "fırçalarız", "saklarız", "keseriz"],
+    "correctAnswer": "fırçalarız",
+    "correctIndex": 1,
+    "isActive": true
+  },
+  {
+    "id": "fill_018",
+    "sentence": "Ağaçlarda ____ yetişir.",
+    "options": ["meyve", "televizyon", "araba", "kitap"],
+    "correctAnswer": "meyve",
+    "correctIndex": 0,
+    "isActive": true
+  },
+  {
+    "id": "fill_019",
+    "sentence": "Top oynarken genellikle ____ kullanırız.",
+    "options": ["kitap", "kalem", "top", "kaşık"],
+    "correctAnswer": "top",
+    "correctIndex": 2,
+    "isActive": true
+  },
+  {
+    "id": "fill_020",
+    "sentence": "Susadığımızda ____ içeriz.",
+    "options": ["su", "kum", "kitap", "oyuncak"],
+    "correctAnswer": "su",
+    "correctIndex": 0,
+    "isActive": true
+  },
+ {
+    "id": "fill_021",
+    "sentence": "Güneş sabah ____ doğar.",
+    "options": ["gece", "akşam", "gündüz", "erken"],
+    "correctAnswer": "erken",
+    "correctIndex": 3,
+    "isActive": true
+  },
+  {
+    "id": "fill_022",
+    "sentence": "Karpuzun içi genellikle ____ olur.",
+    "options": ["mavi", "kırmızı", "siyah", "beyaz"],
+    "correctAnswer": "kırmızı",
+    "correctIndex": 1,
+    "isActive": true
+  },
+  {
+    "id": "fill_023",
+    "sentence": "Ayakkabılarımızı ayağımıza ____.",
+    "options": ["yerleştiririz", "takmayız", "giyeriz", "atarız"],
+    "correctAnswer": "giyeriz",
+    "correctIndex": 2,
+    "isActive": true
+  },
+  {
+    "id": "fill_024",
+    "sentence": "Kışın üşümemek için ____ giyeriz.",
+    "options": ["mont", "terlik", "şort", "gözlük"],
+    "correctAnswer": "mont",
+    "correctIndex": 0,
+    "isActive": true
+  },
+  {
+    "id": "fill_025",
+    "sentence": "Arılar ____ yapar.",
+    "options": ["bal", "çorba", "oyuncak", "ekmek"],
+    "correctAnswer": "bal",
+    "correctIndex": 0,
+    "isActive": true
+  },
+  {
+    "id": "fill_026",
+    "sentence": "Okulda yazı yazmak için ____ kullanırız.",
+    "options": ["kalem", "kaşık", "yastık", "bardak"],
+    "correctAnswer": "kalem",
+    "correctIndex": 0,
+    "isActive": true
+  },
+  {
+    "id": "fill_027",
+    "sentence": "Köpekler genellikle ____ sesi çıkarır.",
+    "options": ["miyav", "vak vak", "hav hav", "möö"],
+    "correctAnswer": "hav hav",
+    "correctIndex": 2,
+    "isActive": true
+  },
+  {
+    "id": "fill_028",
+    "sentence": "Yemekten önce ellerimizi ____.",
+    "options": ["boyarız", "uyuruz", "yıkarız", "saklarız"],
+    "correctAnswer": "yıkarız",
+    "correctIndex": 2,
+    "isActive": true
+  },
+  {
+    "id": "fill_029",
+    "sentence": "Televizyon izlemek için ____ açarız.",
+    "options": ["televizyonu", "buzdolabını", "kapıyı", "çantayı"],
+    "correctAnswer": "televizyonu",
+    "correctIndex": 0,
+    "isActive": true
+  },
+  {
+    "id": "fill_030",
+    "sentence": "Tavuklar ____ verir.",
+    "options": ["yumurta", "bal", "çorba", "kitap"],
+    "correctAnswer": "yumurta",
+    "correctIndex": 0,
+    "isActive": true
+  },
+  {
+    "id": "fill_031",
+    "sentence": "Çiçekler güzel ____ kokar.",
+    "options": ["acı", "tatlı", "hoş", "sert"],
+    "correctAnswer": "hoş",
+    "correctIndex": 2,
+    "isActive": true
+  },
+  {
+    "id": "fill_032",
+    "sentence": "Uyurken başımızı ____ koyarız.",
+    "options": ["masaya", "yastığa", "kapıya", "televizyona"],
+    "correctAnswer": "yastığa",
+    "correctIndex": 1,
+    "isActive": true
+  },
+  {
+    "id": "fill_033",
+    "sentence": "Kalemle ____ çizeriz.",
+    "options": ["resim", "çorba", "oyuncak", "yemek"],
+    "correctAnswer": "resim",
+    "correctIndex": 0,
+    "isActive": true
+  },
+  {
+    "id": "fill_034",
+    "sentence": "Yazın hava genellikle ____ olur.",
+    "options": ["soğuk", "yağmurlu", "sıcak", "karanlık"],
+    "correctAnswer": "sıcak",
+    "correctIndex": 2,
+    "isActive": true
+  },
+  {
+    "id": "fill_035",
+    "sentence": "Saat bize ____ gösterir.",
+    "options": ["yemeği", "saati", "kitabı", "rengi"],
+    "correctAnswer": "saati",
+    "correctIndex": 1,
+    "isActive": true
+  },
+  {
+    "id": "fill_036",
+    "sentence": "Bebekler sütü ____ içer.",
+    "options": ["bardakla", "şişeyle", "çatalla", "tabakla"],
+    "correctAnswer": "şişeyle",
+    "correctIndex": 1,
+    "isActive": true
+  },
+  {
+    "id": "fill_037",
+    "sentence": "Arabalar yolda ____ eder.",
+    "options": ["yüzer", "uçar", "hareket", "uyur"],
+    "correctAnswer": "hareket",
+    "correctIndex": 2,
+    "isActive": true
+  },
+  {
+    "id": "fill_038",
+    "sentence": "Meyveleri yedikten sonra ____ atarız.",
+    "options": ["çekirdeğini", "kitabı", "oyuncağı", "kalemi"],
+    "correctAnswer": "çekirdeğini",
+    "correctIndex": 0,
+    "isActive": true
+  },
+  {
+    "id": "fill_039",
+    "sentence": "Kışın bazen gökyüzünden ____ yağar.",
+    "options": ["kum", "kar", "oyuncak", "ekmek"],
+    "correctAnswer": "kar",
+    "correctIndex": 1,
+    "isActive": true
+  },
+  {
+    "id": "fill_040",
+    "sentence": "Parkta çocuklar ____ oynar.",
+    "options": ["top", "kitap", "bardak", "çatal"],
+    "correctAnswer": "top",
+    "correctIndex": 0,
+    "isActive": true
+  },
+ {
+    "id": "fill_041",
+    "sentence": "Sabah kahvaltısında ____ içeriz.",
+    "options": ["çay", "kum", "kalem", "oyuncak"],
+    "correctAnswer": "çay",
+    "correctIndex": 0,
+    "isActive": true
+  },
+  {
+    "id": "fill_042",
+    "sentence": "Kediler süt içmeyi ____.",
+    "options": ["unutur", "sever", "boyar", "saklar"],
+    "correctAnswer": "sever",
+    "correctIndex": 1,
+    "isActive": true
+  },
+  {
+    "id": "fill_043",
+    "sentence": "Buz çok ____ olur.",
+    "options": ["sıcak", "soğuk", "yumuşak", "acı"],
+    "correctAnswer": "soğuk",
+    "correctIndex": 1,
+    "isActive": true
+  },
+  {
+    "id": "fill_044",
+    "sentence": "Çocuklar okulda ____ öğrenir.",
+    "options": ["ders", "oyuncak", "çorba", "uyku"],
+    "correctAnswer": "ders",
+    "correctIndex": 0,
+    "isActive": true
+  },
+  {
+    "id": "fill_045",
+    "sentence": "Resim yapmak için ____ kullanırız.",
+    "options": ["boya", "çatal", "yastık", "bardak"],
+    "correctAnswer": "boya",
+    "correctIndex": 0,
+    "isActive": true
+  },
+  {
+    "id": "fill_046",
+    "sentence": "Telefonla ____ konuşuruz.",
+    "options": ["insanlarla", "kitaplarla", "masayla", "kapıyla"],
+    "correctAnswer": "insanlarla",
+    "correctIndex": 0,
+    "isActive": true
+  },
+  {
+    "id": "fill_047",
+    "sentence": "Kuşların kanatları vardır çünkü ____.",
+    "options": ["yüzerler", "uçarlar", "uyurlar", "koşarlar"],
+    "correctAnswer": "uçarlar",
+    "correctIndex": 1,
+    "isActive": true
+  },
+  {
+    "id": "fill_048",
+    "sentence": "Makarna yemek için ____ kullanırız.",
+    "options": ["çatal", "silgi", "kalem", "oyuncak"],
+    "correctAnswer": "çatal",
+    "correctIndex": 0,
+    "isActive": true
+  },
+  {
+    "id": "fill_049",
+    "sentence": "Kalem kutusunda genellikle ____ olur.",
+    "options": ["kalem", "çorba", "ekmek", "oyuncak"],
+    "correctAnswer": "kalem",
+    "correctIndex": 0,
+    "isActive": true
+  },
+  {
+    "id": "fill_050",
+    "sentence": "Yastık başımızın altına ____.",
+    "options": ["konur", "yenir", "boyanır", "içilir"],
+    "correctAnswer": "konur",
+    "correctIndex": 0,
+    "isActive": true
+  },
+  {
+    "id": "fill_051",
+    "sentence": "Sıcak havalarda insanlar ____ içer.",
+    "options": ["su", "taş", "kitap", "oyuncak"],
+    "correctAnswer": "su",
+    "correctIndex": 0,
+    "isActive": true
+  },
+  {
+    "id": "fill_052",
+    "sentence": "Ayakkabılar ayağımıza ____.",
+    "options": ["takılır", "giyilir", "yapıştırılır", "boyanır"],
+    "correctAnswer": "giyilir",
+    "correctIndex": 1,
+    "isActive": true
+  },
+  {
+    "id": "fill_053",
+    "sentence": "Kırmızı ışıkta araçlar ____.",
+    "options": ["hızlanır", "durur", "uçar", "zıplar"],
+    "correctAnswer": "durur",
+    "correctIndex": 1,
+    "isActive": true
+  },
+  {
+    "id": "fill_054",
+    "sentence": "Meyve suyu genellikle ____ yapılır.",
+    "options": ["meyvelerden", "taşlardan", "kitaplardan", "kalemlerden"],
+    "correctAnswer": "meyvelerden",
+    "correctIndex": 0,
+    "isActive": true
+  },
+  {
+    "id": "fill_055",
+    "sentence": "Çamaşırlar kirlenince ____.",
+    "options": ["boyanır", "yıkanır", "yenir", "uyutulur"],
+    "correctAnswer": "yıkanır",
+    "correctIndex": 1,
+    "isActive": true
+  },
+  {
+    "id": "fill_056",
+    "sentence": "Ağaçlar doğada ____ sağlar.",
+    "options": ["hava", "oyuncak", "televizyon", "çorba"],
+    "correctAnswer": "hava",
+    "correctIndex": 0,
+    "isActive": true
+  },
+  {
+    "id": "fill_057",
+    "sentence": "Balık tutmak için ____ kullanılır.",
+    "options": ["olta", "yastık", "kalem", "tabak"],
+    "correctAnswer": "olta",
+    "correctIndex": 0,
+    "isActive": true
+  },
+  {
+    "id": "fill_058",
+    "sentence": "Kışın ellerimiz üşüyünce ____ takarız.",
+    "options": ["eldiven", "terlik", "gözlük", "şapka"],
+    "correctAnswer": "eldiven",
+    "correctIndex": 0,
+    "isActive": true
+  },
+  {
+    "id": "fill_059",
+    "sentence": "Saat geç olunca insanlar ____.",
+    "options": ["uyur", "koşar", "yüzer", "zıplar"],
+    "correctAnswer": "uyur",
+    "correctIndex": 0,
+    "isActive": true
+  },
+  {
+    "id": "fill_060",
+    "sentence": "Çocuklar parkta ____ biner.",
+    "options": ["salıncağa", "masaya", "dolaba", "yatağa"],
+    "correctAnswer": "salıncağa",
+    "correctIndex": 0,
+    "isActive": true
+  }
+]
+

@@ -1,0 +1,6 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <rect x="20" y="40" width="60" height="20" rx="5" fill="none" stroke="black" stroke-width="2" id="body" />
+  <path d="M30,40 Q40,20 60,20 L70,40" fill="none" stroke="black" stroke-width="2" id="roof" />
+  <circle cx="35" cy="60" r="8" fill="none" stroke="black" stroke-width="2" id="wheel1" />
+  <circle cx="65" cy="60" r="8" fill="none" stroke="black" stroke-width="2" id="wheel2" />
+</svg>
