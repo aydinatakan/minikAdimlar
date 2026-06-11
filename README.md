@@ -1,4 +1,6 @@
-![Uploading minikadımlarlogo-photoaidcom-cropped.png…]()
+<img width="2048" height="2048" alt="minikadimlarlogo" src="https://github.com/user-attachments/assets/7b1b0f0d-47f3-41b1-93a1-6469dad08ac1" />
+
+
 
 
 
