@@ -1,3 +1,7 @@
+![Uploading minikadımlarlogo-photoaidcom-cropped.png…]()
+
+
+
 🌱 Minik Adımlar
 📖 Proje Hakkında
 
