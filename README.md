@@ -77,9 +77,6 @@ Uygulama, herhangi bir tıbbi tanı koyma veya tedavi sağlama amacı taşımaz.
 
 Atakan Aydın
 
-Bilgisayar Mühendisliği Öğrencisi
-
-Flutter • Firebase • Mobil Uygulama Geliştirme • Yapay Zekâ Destekli Projeler
 
 
 <img width="1905" height="1025" alt="Ekran görüntüsü 2026-06-15 152004" src="https://github.com/user-attachments/assets/9f708402-4ecf-403d-9880-806237baef02" />
